@@ -1,0 +1,7 @@
+{
+  "name": "AgroBot: Your Karnataka Agro-Guide",
+  "description": "An AI-powered chatbot providing guidance on Karnataka's agro-industries, from crops and pests to government schemes and business ideas. Supports English and Kannada with text and voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
